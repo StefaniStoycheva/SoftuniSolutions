@@ -1,0 +1,19 @@
+namespace six
+    //sequence of numbers 2k + 1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int targetNum = int.Parse(Console.ReadLine());
+
+            int k = 1;
+
+            while (k <= targetNum)
+            {
+                Console.WriteLine(k);
+                k = k * 2 + 1;
+            }
+        }
+    }
+}
