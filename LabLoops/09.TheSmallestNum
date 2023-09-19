@@ -1,0 +1,24 @@
+namespace _09.smallestNum
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string command = Console.ReadLine();
+            int minNum = int.MaxValue;  //the max value int can hold
+
+            while (command != "Stop")
+            {
+                int number = int.Parse(command);
+
+                if (number < minNum)
+                {
+                    minNum = number;
+                }
+                command = Console.ReadLine();
+            }
+
+            Console.WriteLine(minNum);
+        }
+    }
+}
