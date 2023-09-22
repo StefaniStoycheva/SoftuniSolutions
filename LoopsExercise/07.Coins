@@ -1,0 +1,34 @@
+namespace _07.Coins
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double value = double.Parse(Console.ReadLine());
+            int coins = 0;
+            int stotinki = (int)(value * 100); //casting from bigger to smaller type 
+            int currentStCoin = 200; //largest (2 lv)
+
+            while (currentStCoin != 0)
+            {
+                coins += stotinki / currentStCoin;
+                stotinki = stotinki % currentStCoin;
+
+                //switching to next smaller coin
+                switch (currentStCoin)
+                {
+                    case 200: currentStCoin = 100; break;
+                    case 100: currentStCoin = 50; break;
+                    case 50: currentStCoin = 20; break;
+                    case 20: currentStCoin = 10; break;
+                    case 10: currentStCoin = 5; break;
+                    case 5: currentStCoin = 2; break;
+                    case 2: currentStCoin = 1; break;
+                    case 1: currentStCoin = 0; break; //end of cycle
+
+                }
+            }
+            Console.WriteLine(coins);
+        }
+    }
+}
