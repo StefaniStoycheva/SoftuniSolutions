@@ -1,0 +1,39 @@
+namespace _04.ExamPrep
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int maxPoorGrades = int.Parse(Console.ReadLine());
+            int numPoorGrades = 0;
+            double totalGrades = 0;
+            int gradesNum = 0;
+            string problemName = "";
+            
+            while (numPoorGrades < maxPoorGrades)
+            {
+                string currentProblem = Console.ReadLine();
+                if (currentProblem == "Enough")
+                    break;
+                problemName = currentProblem;
+                int currentGrade = int.Parse(Console.ReadLine());
+                totalGrades = totalGrades + currentGrade;
+                gradesNum++;
+                if (currentGrade <= 4)
+                    numPoorGrades++;
+
+            }
+            if (numPoorGrades >= maxPoorGrades)
+            {
+                Console.WriteLine($"You need a break, {numPoorGrades} poor grades.");
+            }
+            else
+            {
+                Console.WriteLine($"Average score: {totalGrades/gradesNum:f2}");
+                Console.WriteLine($"Number of problems: {gradesNum}");
+                Console.WriteLine($"Last problem: {problemName}");
+            }
+             
+        }
+    }
+}
