@@ -1,0 +1,26 @@
+namespace _09.Moving
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int width = int.Parse(Console.ReadLine());
+            int length = int.Parse(Console.ReadLine());
+            int height  = int.Parse(Console.ReadLine());
+
+            int volume = width * height * length; //since each box is 1x1x1 // the num of peices is same as the area
+
+            while (volume >= 0)
+            {
+                string input = Console.ReadLine();
+                if (input == "Done")
+                    break;
+                volume -= int.Parse(input);
+            }
+            if (volume >= 0)
+                Console.WriteLine($"{volume} Cubic meters left.");
+            else
+                Console.WriteLine($"No more free space! You need {-volume} Cubic meters more."); //we are switching the sign by putting the "-", same as Math.Abs?
+        }
+    }
+}
