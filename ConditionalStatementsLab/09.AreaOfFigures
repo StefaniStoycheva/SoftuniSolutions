@@ -1,0 +1,34 @@
+namespace _09.AreaOfFigures
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string figure = Console.ReadLine();
+
+            if (figure == "square")
+            {
+                double a = double.Parse(Console.ReadLine());
+                double area = a * a;
+                Console.WriteLine($"{area:f2}");
+
+            } else if (figure == "rectangle")
+            {
+                double a = double.Parse(Console.ReadLine());
+                double b = double.Parse(Console.ReadLine());
+                double area = a * b;
+                Console.WriteLine($"{area:f2}");
+
+            } else if (figure == "circle")
+            {
+                double rad = double.Parse(Console.ReadLine());
+                double area = Math.PI * Math.Pow(rad, 2);
+                Console.WriteLine($"{area:f2}");
+            }
+            else
+            {
+                Console.WriteLine("Invalid figure.");
+            }
+        }
+    }
+}

@@ -1,0 +1,29 @@
+namespace _10.ValidTriangle
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int sideA = int.Parse(Console.ReadLine());
+            int sideB = int.Parse(Console.ReadLine());
+            int sideC = int.Parse(Console.ReadLine());
+
+            bool isValidTriangle = true;
+
+            if (sideB + sideC <= sideA)
+            {
+                Console.WriteLine("Invalid Triangle");
+            } else if (sideA + sideC <= sideB) 
+            {
+                Console.WriteLine("Invalid Triangle");
+            } else if(sideB + sideA <= sideC) 
+            { 
+                Console.WriteLine("Invalid Triangle");
+            }
+            else
+            {
+                Console.WriteLine("Valid Triangle");
+            }
+        }
+    }
+}
