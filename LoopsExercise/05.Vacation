@@ -1,0 +1,43 @@
+namespace _05.Vacation
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            double neededMoney = double.Parse(Console.ReadLine());
+            double availableMoney = double.Parse(Console.ReadLine());
+            int totalDays = 0;
+            int spendingDays = 0;
+
+            while (availableMoney < neededMoney && spendingDays < 5)
+            {
+                totalDays++;
+                string type = Console.ReadLine();
+                double amount = double.Parse(Console.ReadLine());
+                if (type == "spend")
+                {
+                    availableMoney -= amount; //or amount = -amount; //this way we reduce the total later on/convert
+                    if (availableMoney < 0)
+                        availableMoney = 0;
+                    spendingDays++;
+                }
+                else
+                {
+                    availableMoney += amount;
+                    spendingDays = 0; //resetting the spending sequence as per the instructions
+                }
+
+                if (spendingDays >= 5)
+                {
+                    Console.WriteLine("You can't save the money.");
+                    Console.WriteLine(totalDays);
+                } else if (availableMoney >= neededMoney)
+                {
+                    Console.WriteLine($"You saved the money for {totalDays} days.");
+                }
+                
+
+            }
+        }
+    }
+}

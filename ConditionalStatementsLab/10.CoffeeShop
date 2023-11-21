@@ -1,0 +1,29 @@
+namespace _10.CoffeeShop
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            string drink = Console.ReadLine();
+            string extra = Console.ReadLine();
+            double price = 0;
+
+            if (drink == "coffee")
+            {
+                if (extra == "sugar")
+                    price = 1.40;
+                else if (extra == "no")
+                    price = 1.00;
+
+            } else if (drink == "tea")
+            {
+                if (extra == "sugar")
+                    price = 1.00;
+                else if (extra == "no")
+                    price = 0.60;
+            
+            }
+            Console.WriteLine($"Final price: ${price:f2}");
+        }
+    }
+}

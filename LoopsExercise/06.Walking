@@ -1,0 +1,33 @@
+namespace _06.Walking
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int goal = 10000; // like a constant
+            int stepsToday = 0;
+            string input; 
+            bool finished = false; //rules/guides the while cycle
+
+            while (!finished && stepsToday < goal)
+            {
+                input = Console.ReadLine(); //reading the input
+                if (input == "Going home")
+                {
+                    finished = true; // stops the cycle
+                    input = Console.ReadLine(); //reads the last steps as she has to return
+                }
+                stepsToday += int.Parse(input); //adding the latest input to the steps
+            }
+            if (stepsToday < goal)
+            {
+                Console.WriteLine($"{goal - stepsToday} more steps to reach goal.");
+            }
+            else
+            {
+                Console.WriteLine("Goal reached! Good job!");
+                Console.WriteLine($"{stepsToday - goal} steps over the goal!");
+            }
+        }
+    }
+}

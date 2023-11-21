@@ -1,0 +1,25 @@
+namespace eight
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            string command = Console.ReadLine();
+            int maxNum = int.MinValue;  //the smallest value the int can hold
+
+            while (command != "Stop")
+            {
+                int number = int.Parse(command);
+
+                if (number > maxNum )
+                {
+                    maxNum = number;
+                }
+                command = Console.ReadLine();
+            }
+
+            Console.WriteLine(maxNum);
+        }
+    }
+} 
