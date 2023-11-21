@@ -1,0 +1,14 @@
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.exe
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.deps.json
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.runtimeconfig.json
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.dll
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\bin\Debug\net6.0\02. Match Phone Number.pdb
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.AssemblyInfo.cs
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.dll
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\obj\Debug\net6.0\refint\02. Match Phone Number.dll
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.pdb
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\obj\Debug\net6.0\02. Match Phone Number.genruntimeconfig.cache
+D:\ProgrammingAdvancedQA\RegularExpressions\02. Match Phone Number\obj\Debug\net6.0\ref\02. Match Phone Number.dll

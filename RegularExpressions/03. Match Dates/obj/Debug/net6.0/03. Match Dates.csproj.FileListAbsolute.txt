@@ -1,0 +1,14 @@
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.exe
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.deps.json
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.runtimeconfig.json
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.dll
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\bin\Debug\net6.0\03. Match Dates.pdb
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.AssemblyInfoInputs.cache
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.AssemblyInfo.cs
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.csproj.CoreCompileInputs.cache
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.dll
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\obj\Debug\net6.0\refint\03. Match Dates.dll
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.pdb
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\obj\Debug\net6.0\03. Match Dates.genruntimeconfig.cache
+D:\ProgrammingAdvancedQA\RegularExpressions\03. Match Dates\obj\Debug\net6.0\ref\03. Match Dates.dll
