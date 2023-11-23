@@ -1,0 +1,4 @@
+D:\ProgrammingAdvancedQA\ObjectsAndClassesLAB\01Songss\obj\Release\net6.0\01Songss.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingAdvancedQA\ObjectsAndClassesLAB\01Songss\obj\Release\net6.0\01Songss.AssemblyInfoInputs.cache
+D:\ProgrammingAdvancedQA\ObjectsAndClassesLAB\01Songss\obj\Release\net6.0\01Songss.AssemblyInfo.cs
+D:\ProgrammingAdvancedQA\ObjectsAndClassesLAB\01Songss\obj\Release\net6.0\01Songss.csproj.CoreCompileInputs.cache
