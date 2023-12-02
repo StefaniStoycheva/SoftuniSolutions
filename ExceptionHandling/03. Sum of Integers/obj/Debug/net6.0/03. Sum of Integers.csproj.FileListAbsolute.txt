@@ -1,0 +1,14 @@
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\bin\Debug\net6.0\03. Sum of Integers.exe
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\bin\Debug\net6.0\03. Sum of Integers.deps.json
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\bin\Debug\net6.0\03. Sum of Integers.runtimeconfig.json
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\bin\Debug\net6.0\03. Sum of Integers.dll
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\bin\Debug\net6.0\03. Sum of Integers.pdb
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\obj\Debug\net6.0\03. Sum of Integers.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\obj\Debug\net6.0\03. Sum of Integers.AssemblyInfoInputs.cache
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\obj\Debug\net6.0\03. Sum of Integers.AssemblyInfo.cs
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\obj\Debug\net6.0\03. Sum of Integers.csproj.CoreCompileInputs.cache
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\obj\Debug\net6.0\03. Sum of Integers.dll
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\obj\Debug\net6.0\refint\03. Sum of Integers.dll
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\obj\Debug\net6.0\03. Sum of Integers.pdb
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\obj\Debug\net6.0\03. Sum of Integers.genruntimeconfig.cache
+D:\ProgrammingAdvancedQA\ExceptionHandling\03. Sum of Integers\obj\Debug\net6.0\ref\03. Sum of Integers.dll
