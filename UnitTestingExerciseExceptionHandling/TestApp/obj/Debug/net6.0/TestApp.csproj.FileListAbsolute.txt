@@ -1,0 +1,11 @@
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\bin\Debug\net6.0\TestApp.deps.json
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\bin\Debug\net6.0\TestApp.dll
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\bin\Debug\net6.0\TestApp.pdb
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\obj\Debug\net6.0\TestApp.dll
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\obj\Debug\net6.0\TestApp.pdb
+D:\ProgrammingAdvancedQA\UnitTestingExerciseExceptionHandling\TestApp\obj\Debug\net6.0\ref\TestApp.dll
