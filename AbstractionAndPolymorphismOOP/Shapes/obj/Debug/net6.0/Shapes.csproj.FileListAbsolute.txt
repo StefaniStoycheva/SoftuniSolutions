@@ -1,0 +1,14 @@
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\bin\Debug\net6.0\Shapes.exe
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\bin\Debug\net6.0\Shapes.deps.json
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\bin\Debug\net6.0\Shapes.runtimeconfig.json
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\bin\Debug\net6.0\Shapes.dll
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\bin\Debug\net6.0\Shapes.pdb
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\obj\Debug\net6.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfoInputs.cache
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\obj\Debug\net6.0\Shapes.AssemblyInfo.cs
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\obj\Debug\net6.0\Shapes.csproj.CoreCompileInputs.cache
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\obj\Debug\net6.0\Shapes.dll
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\obj\Debug\net6.0\refint\Shapes.dll
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\obj\Debug\net6.0\Shapes.pdb
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\obj\Debug\net6.0\Shapes.genruntimeconfig.cache
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Shapes\obj\Debug\net6.0\ref\Shapes.dll

@@ -1,0 +1,14 @@
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\bin\Debug\net6.0\Animals.exe
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\bin\Debug\net6.0\Animals.deps.json
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\bin\Debug\net6.0\Animals.runtimeconfig.json
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\bin\Debug\net6.0\Animals.dll
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\bin\Debug\net6.0\Animals.pdb
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\obj\Debug\net6.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\obj\Debug\net6.0\Animals.AssemblyInfoInputs.cache
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\obj\Debug\net6.0\Animals.AssemblyInfo.cs
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\obj\Debug\net6.0\Animals.csproj.CoreCompileInputs.cache
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\obj\Debug\net6.0\Animals.dll
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\obj\Debug\net6.0\refint\Animals.dll
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\obj\Debug\net6.0\Animals.pdb
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\obj\Debug\net6.0\Animals.genruntimeconfig.cache
+D:\ProgrammingAdvancedQA\AbstractionAndPolymorphismOOP\Animals\obj\Debug\net6.0\ref\Animals.dll
